@@ -4,4 +4,5 @@
 - Performed and analyzed the difference in output on equal weighted and value weighted portfolios
 
 ### Code:
-To see the code, you should first see Load_data before Trade_karo.
+To see the code, you should first see [Load_Data](Load_Data.ipynb) before [Trade_karo](Trade_karo.ipynb).
+(market_cap) is the one on value weighted portfolios
